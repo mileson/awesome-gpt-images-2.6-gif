@@ -12,20 +12,6 @@ Pick a GIF, take the idea, and try it with GPT Images 2.6.
 - **1** shared prompt so far — 李岳's rooster basketball dance, in `prompts/`
 - Every entry links to the creator's original post
 
-## Contents
-
-- [Fitness breakdowns 健身动作拆解](#fitness) · 3
-- [Memes 表情包](#memes) · 4
-- [Product & mascots 产品与吉祥物](#product) · 4
-- [Greetings 问候](#greetings) · 1
-- [Discord & community Discord 与社群](#discord) · 0
-- [Animated icons & assets 动态图标与素材](#icons) · 1
-- [Action breakdowns 动作拆解](#action) · 0
-- [Animals & pets 动物与宠物](#animals) · 1
-- [Photo-style 照片转风格动画](#photo-style) · 1
-- [How to use a prompt](#how-to-use-a-prompt)
-- [Credits](#credits)
-
 <a id="fitness"></a>
 
 ## Fitness breakdowns 健身动作拆解
