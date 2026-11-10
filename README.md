@@ -36,6 +36,8 @@ Pick a GIF, take the idea, and try it with GPT Images 2.6.
 </tr>
 <tr>
 <td width="33%" valign="top"><a href="https://x.com/liyue_ai/status/2118183557315371229"><img src="https://raw.githubusercontent.com/mileson/awesome-gpt-images-2.6-gif/main/media/rooster.gif" width="100%" alt="Rooster Basketball Dance"></a><br><b>Rooster Basketball Dance</b><br><a href="https://x.com/liyue_ai/status/2118183557315371229">@liyue_ai</a> · <a href="https://x.com/liyue_ai/status/2118183557315371229">Original post</a><br><sub>A yellow 3D cartoon rooster in overalls performs a basketball dance — catching, dribbling between the legs, tossing the ball and breaking into the idol dance.</sub><br><a href="prompts/rooster-basketball-dance.md">📝 Prompt</a></td>
+<td width="33%" valign="top"></td>
+<td width="33%" valign="top"></td>
 </tr>
 </table>
 
@@ -51,6 +53,8 @@ Pick a GIF, take the idea, and try it with GPT Images 2.6.
 </tr>
 <tr>
 <td width="33%" valign="top"><a href="https://x.com/798145343h/status/2118164732989608405"><img src="https://raw.githubusercontent.com/mileson/awesome-gpt-images-2.6-gif/main/media/gpt-claude-dance2.gif" width="100%" alt="GPT and Claude Dance 2"></a><br><b>GPT and Claude Dance 2</b><br><a href="https://x.com/798145343h/status/2118164732989608405">@798145343h</a> · <a href="https://x.com/798145343h/status/2118164732989608405">Original post</a><br><sub>The second GIF of GPT and Claude as anime girls dancing.</sub></td>
+<td width="33%" valign="top"></td>
+<td width="33%" valign="top"></td>
 </tr>
 </table>
 
@@ -61,6 +65,8 @@ Pick a GIF, take the idea, and try it with GPT Images 2.6.
 <table>
 <tr>
 <td width="33%" valign="top"><a href="https://x.com/bit_sister/status/2118162095422517527"><img src="https://raw.githubusercontent.com/mileson/awesome-gpt-images-2.6-gif/main/media/gm-heart.gif" width="100%" alt="Good Morning Heart"></a><br><b>Good Morning Heart</b><br><a href="https://x.com/bit_sister/status/2118162095422517527">@bit_sister</a> · <a href="https://x.com/bit_sister/status/2118162095422517527">Original post</a><br><sub>A girl makes a heart with both hands against pink cherry blossoms — a GM greeting GIF.</sub></td>
+<td width="33%" valign="top"></td>
+<td width="33%" valign="top"></td>
 </tr>
 </table>
 
@@ -77,6 +83,8 @@ No GIFs listed yet.
 <table>
 <tr>
 <td width="33%" valign="top"><a href="https://x.com/koguGameDev/status/2118144025886921043"><img src="https://raw.githubusercontent.com/mileson/awesome-gpt-images-2.6-gif/main/media/pixel-game.gif" width="100%" alt="Pixel Game Character Walk"></a><br><b>Pixel Game Character Walk</b><br><a href="https://x.com/koguGameDev/status/2118144025886921043">@koguGameDev</a> · <a href="https://x.com/koguGameDev/status/2118144025886921043">Original post</a><br><sub>A pixel-art game character in a red cloak, walking.</sub></td>
+<td width="33%" valign="top"></td>
+<td width="33%" valign="top"></td>
 </tr>
 </table>
 
@@ -95,6 +103,8 @@ No GIFs listed yet.
 <table>
 <tr>
 <td width="33%" valign="top"><a href="https://x.com/pradeepXkapoor/status/2118163822938816642"><img src="https://raw.githubusercontent.com/mileson/awesome-gpt-images-2.6-gif/main/media/cat-moon.gif" width="100%" alt="Moonlit Cat"></a><br><b>Moonlit Cat</b><br><a href="https://x.com/pradeepXkapoor/status/2118163822938816642">@pradeepXkapoor</a> · <a href="https://x.com/pradeepXkapoor/status/2118163822938816642">Original post</a><br><sub>A grey-and-white cat naps with half-closed eyes on a wooden platform under moonlit cherry blossoms.</sub></td>
+<td width="33%" valign="top"></td>
+<td width="33%" valign="top"></td>
 </tr>
 </table>
 
@@ -105,6 +115,8 @@ No GIFs listed yet.
 <table>
 <tr>
 <td width="33%" valign="top"><a href="https://x.com/genel_ai/status/2118164510372688095"><img src="https://raw.githubusercontent.com/mileson/awesome-gpt-images-2.6-gif/main/media/watercolor-baby.gif" width="100%" alt="Watercolor Baby Laugh"></a><br><b>Watercolor Baby Laugh</b><br><a href="https://x.com/genel_ai/status/2118164510372688095">@genel_ai</a> · <a href="https://x.com/genel_ai/status/2118164510372688095">Original post</a><br><sub>A real photo turned into a watercolor-style painting, then animated — a laughing baby.</sub></td>
+<td width="33%" valign="top"></td>
+<td width="33%" valign="top"></td>
 </tr>
 </table>
 
