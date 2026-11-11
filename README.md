@@ -6,10 +6,10 @@ GIFs made with **GPT Images 2.6**, with prompts shared by their creators and lin
 
 Pick a GIF, take the idea, and try it with GPT Images 2.6.
 
-**[▶ Browse all 15 GIFs on SkillU](https://skillu.dev/ai-gif-generator/#cases)**
+**[▶ Browse all 23 GIFs on SkillU](https://skillu.dev/ai-gif-generator/#cases)**
 
-- **15** GIFs to browse by category
-- **1** shared prompt so far — 李岳's rooster basketball dance, in `prompts/`
+- **23** GIFs to browse by category
+- **9** shared prompts so far — 李岳's rooster basketball dance, plus all 8 Boxing Cat prompts, in `prompts/`
 - Every entry links to the creator's original post
 
 <a id="fitness"></a>
@@ -84,6 +84,25 @@ No GIFs listed yet.
 
 <a href="https://x.com/pradeepXkapoor/status/2118163822938816642"><img src="https://raw.githubusercontent.com/mileson/awesome-gpt-images-2.6-gif/main/media/cat-moon.gif" width="33%" alt="Moonlit Cat"></a><br><b>Moonlit Cat</b><br><a href="https://x.com/pradeepXkapoor/status/2118163822938816642">@pradeepXkapoor</a> · <a href="https://x.com/pradeepXkapoor/status/2118163822938816642">Original post</a><br><sub>A grey-and-white cat naps with half-closed eyes on a wooden platform under moonlit cherry blossoms.</sub>
 
+<a id="boxing-cat"></a>
+
+## Boxing Cat series 拳击猫系列
+
+A SkillU original series, generated with GPT Images 2.6 — one chubby orange-and-white tabby cat, one wet night street, eight moments. Inspired by [Mei @srdelaSandia's viral video](https://x.com/srdelasandia/status/2119899138670096659) of a real tabby cat standing up and punching at the camera (1.68M views); these are AI recreations of that concept, not the original video. Every prompt is shared in `prompts/`.
+
+<table>
+<tr>
+<td width="33%" valign="top"><a href="prompts/cat-boxing-punch.md"><img src="https://raw.githubusercontent.com/mileson/awesome-gpt-images-2.6-gif/main/media/cat-boxing-punch.gif" width="100%" alt="Boxing Cat — Punching at the Camera"></a><br><b>Boxing Cat — Punching at the Camera</b><br><a href="prompts/cat-boxing-punch.md">📝 Prompt</a><br><sub>The one that started it — the tabby stands on its hind legs and throws alternating punches at the camera, then leans in close.</sub></td><td width="33%" valign="top"><a href="prompts/cat-waving-hello.md"><img src="https://raw.githubusercontent.com/mileson/awesome-gpt-images-2.6-gif/main/media/cat-waving-hello.gif" width="100%" alt="Boxing Cat — Waving Hello"></a><br><b>Boxing Cat — Waving Hello</b><br><a href="prompts/cat-waving-hello.md">📝 Prompt</a><br><sub>Both front paws up, waving hello at the camera.</sub></td><td width="33%" valign="top"><a href="prompts/cat-eating-fish.md"><img src="https://raw.githubusercontent.com/mileson/awesome-gpt-images-2.6-gif/main/media/cat-eating-fish.gif" width="100%" alt="Boxing Cat — Eating a Fish"></a><br><b>Boxing Cat — Eating a Fish</b><br><a href="prompts/cat-eating-fish.md">📝 Prompt</a><br><sub>Sitting down with a small silver fish held in both paws, taking bites.</sub></td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a href="prompts/cat-dancing.md"><img src="https://raw.githubusercontent.com/mileson/awesome-gpt-images-2.6-gif/main/media/cat-dancing.gif" width="100%" alt="Boxing Cat — Dancing"></a><br><b>Boxing Cat — Dancing</b><br><a href="prompts/cat-dancing.md">📝 Prompt</a><br><sub>Bouncing and swaying side to side, paws in the air, a joyful dance.</sub></td><td width="33%" valign="top"><a href="prompts/cat-playing-yarn.md"><img src="https://raw.githubusercontent.com/mileson/awesome-gpt-images-2.6-gif/main/media/cat-playing-yarn.gif" width="100%" alt="Boxing Cat — Playing with Yarn"></a><br><b>Boxing Cat — Playing with Yarn</b><br><a href="prompts/cat-playing-yarn.md">📝 Prompt</a><br><sub>Batting a ball of red yarn back and forth with its front paws.</sub></td><td width="33%" valign="top"><a href="prompts/cat-sleeping.md"><img src="https://raw.githubusercontent.com/mileson/awesome-gpt-images-2.6-gif/main/media/cat-sleeping.gif" width="100%" alt="Boxing Cat — Sleeping"></a><br><b>Boxing Cat — Sleeping</b><br><a href="prompts/cat-sleeping.md">📝 Prompt</a><br><sub>Curled up asleep on the wet street, breathing softly, tail wrapped around.</sub></td>
+</tr>
+</table>
+
+<a href="prompts/cat-catching-snow.md"><img src="https://raw.githubusercontent.com/mileson/awesome-gpt-images-2.6-gif/main/media/cat-catching-snow.gif" width="33%" alt="Boxing Cat — Catching Snowflakes"></a><br><b>Boxing Cat — Catching Snowflakes</b><br><a href="prompts/cat-catching-snow.md">📝 Prompt</a><br><sub>Jumping up to catch falling snowflakes with its front paws.</sub>
+
+<a href="prompts/cat-blowing-kiss.md"><img src="https://raw.githubusercontent.com/mileson/awesome-gpt-images-2.6-gif/main/media/cat-blowing-kiss.gif" width="33%" alt="Boxing Cat — Blowing a Kiss"></a><br><b>Boxing Cat — Blowing a Kiss</b><br><a href="prompts/cat-blowing-kiss.md">📝 Prompt</a><br><sub>Winking and blowing a kiss toward the camera, one paw to its mouth.</sub>
+
 <a id="photo-style"></a>
 
 ## Photo-style 照片转风格动画
@@ -92,7 +111,7 @@ No GIFs listed yet.
 
 ## How to use a prompt
 
-One prompt has been shared for the GIFs in this collection so far: 李岳's verbatim prompt for the rooster basketball dance, in `prompts/` — the entry links to it. The other 14 have none; per the collection rule, no Prompt area renders for them.
+Nine prompts have been shared for the GIFs in this collection so far: 李岳's verbatim prompt for the rooster basketball dance, plus the full set of 8 Boxing Cat prompts (same cat, same street, eight moments), in `prompts/` — each entry links to its prompt. The other 14 have none; per the collection rule, no Prompt area renders for them.
 
 1. Open a prompt file and copy the block under **Prompt**.
 2. Paste it into GPT Images 2.6 (ChatGPT or Codex) and ask for a GIF.
